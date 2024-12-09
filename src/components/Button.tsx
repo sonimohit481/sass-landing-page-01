@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import { Marker } from "./Marker.jsx";
+import { Marker } from "./Marker.tsx";
 
 const AppButton = ({
   icon,
