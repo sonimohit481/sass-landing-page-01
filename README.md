@@ -1,12 +1,11 @@
 # Xora - Modern SaaS Landing Page
 
-![Xora Banner]()
+![Xora Banner](https://github.com/sonimohit481/sass-landing-page-01/blob/main/public/banner.png)
 
 A modern, responsive SaaS landing page built with React.js and Tailwind CSS, featuring stunning UI animations and mobile-first design principles.
 
 ## 🌟 Live Demo
 
-![Xora Banner](https://github.com/sonimohit481/sass-landing-page-01/blob/main/public/banner.png)
 [View Live Demo](https://sass-landingpage-01.netlify.app/)
 
 ## ✨ Features
