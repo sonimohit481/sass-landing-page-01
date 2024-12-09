@@ -2,8 +2,8 @@ import { Element } from "react-scroll";
 import { useState } from "react";
 import clsx from "clsx";
 import CountUp from "react-countup";
-import { plans } from "../constants/index.jsx";
-import AppButton from "../components/Button.js";
+import { plans } from "../constants/index.tsx";
+import AppButton from "../components/Button.tsx";
 
 const Pricing = () => {
   const [monthly, setMonthly] = useState(false);

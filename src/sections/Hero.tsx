@@ -1,5 +1,5 @@
 import { Element, Link as LinkScroll } from "react-scroll";
-import AppButton from "../components/Button.jsx";
+import AppButton from "../components/Button.tsx";
 
 const Hero = () => {
   return (
