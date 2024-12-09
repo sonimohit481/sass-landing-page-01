@@ -6,6 +6,7 @@ A modern, responsive SaaS landing page built with React.js and Tailwind CSS, fea
 
 ## 🌟 Live Demo
 
+![Xora Banner](https://github.com/sonimohit481/sass-landing-page-01/blob/main/public/banner.png)
 [View Live Demo]()
 
 ## ✨ Features
